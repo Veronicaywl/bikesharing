@@ -9,8 +9,8 @@ Use Tableau to do analysis of NYC CitiBike sharing data from August 2019. We wil
 
 ## Results
 
-Please refer to this link for detail story of the analysis. 
-[link to dashboard] (https://public.tableau.com/app/profile/yawen.liang/viz/Citibike_Challenge_16488752773330/NYCCitiBikeAnalysis)
+Please refer to this link for detail story of the analysis. [link to dashboard](https://public.tableau.com/app/profile/yawen.liang/viz/Citibike_Challenge_16488752773330/NYCCitiBikeAnalysis "link to dashboard")
+
 
 1. We can see the customer breakdown by the follow graph. From August 2019, we have 2,344,224 trips in total. There are two types of customers: we have subscribers and general customers. The graph also shown the bikesharing usage by gender. 
 
